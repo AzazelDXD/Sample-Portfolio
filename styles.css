@@ -34,7 +34,7 @@ a{
 }
 
 header article{
-  background-image: url(images/bg.jpg);
+  background-image: url(bg.jpg);
   background-position: center;
   background-size: cover;
   display: block;
